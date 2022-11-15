@@ -1,7 +1,7 @@
 # Lead-Scoring-Case-Study
 This contains the files that are part of the lead scoring case study.
 
-## Group study members:
+## Group members:
 
 - Aarif Babulal Nadaf
 - Gayatri R Nair
@@ -31,9 +31,9 @@ There are quite a few goals for this case study.
 
 ## Files Included in the Case Study
 
-- Lead Scoring Case Study - Group assignment.ipynb : This python file includes the coding for data analysis and its inferences
-- Assignment Subjective Questions.pdf - Contains answers to the questions from the company. 
-- Lead Scoring Case Study.pdf : A presentation of the analysis that includes the inferences.
-- Leads.csv : The data that is worked on.
-- Leads Data Dictionary.xlsx : Data Dictionary
-- Summary.pdf : The summary of this case study.
+- **Lead Scoring Case Study** - Group assignment.ipynb : This python file includes the coding for data analysis and its inferences
+- **Assignment Subjective Questions.pdf** - Contains answers to the questions from the company. 
+- **Lead Scoring Case Study.pdf** - A presentation of the analysis that includes the inferences.
+- **Leads.csv** - The data that is worked on.
+- **Leads Data Dictionary.xlsx** - Data Dictionary
+- **Summary.pdf** - The summary of this case study.
